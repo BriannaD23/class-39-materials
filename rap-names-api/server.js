@@ -4,16 +4,16 @@ const PORT = 8000;
 
 
 const rappers = {
+    'Nicki Minaj':{
+        'age': 40,
+        'birthName': 'Onika Tayna Maraj',
+        'birthLocation': 'Port of Spain, Trinidad and Tobago'
+    },
+
     '21 Savage':{
         'age': 29,
         'birthName': 'Shéyaa Bin Abraham-Joseph',
         'birthLocation': 'London, England'
-    },
-
-    'Nicki Minaj':{
-        'age': 40,
-        'birthName': 'Onika Tayna Maraj',
-        'birthLocation': 'Tabago, Trinidad'
     },
 
     "Drake":{
