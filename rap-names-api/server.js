@@ -20,7 +20,14 @@ const rappers = {
         'age': 37,
         'birthName': 'Aubrey Drake Graham',
         'birthLocation': 'Toronto, Canada'
+    },
+
+    "Doja Cat":{
+        'age': 28,
+        'birthName': 'Amala Ratna Zandile Dlamini',
+        'birthLocation': 'Los Angeles, California'
     }
+    
 
 
 }
